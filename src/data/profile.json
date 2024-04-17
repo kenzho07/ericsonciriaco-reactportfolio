@@ -1,0 +1,270 @@
+{
+  "Name": "Ericson V. Ciriaco",
+  "Position": "Software Developer",
+  "Description": "Bridging the Gap Between Imagination and Reality.",
+  "Address": "Poblacion,Muntinlupa City",
+  "Company": "Upwork.com",
+  "School": "Pamantasan Lungsod ng Muntinlupa - College",
+  "School1": "Polytechnic University of the Philippines - Master",
+  "SocialMedias": [
+    "https://github.com/kenzho07",
+    "https://www.linkedin.com/in/ericson-ciriaco/",
+    "https://www.facebook.com/cenpot"
+  ],
+  "experiences": [
+    {
+      "companyName": "FULLSTACK Developer",
+      "logo": "https://financesonline.com/uploads/2019/08/upwork-logo11.png",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "FULLSTACK developer",
+          "description": "Developed web-based Software.",
+          "startDate": "2015-01-08",
+          "currentJob": true,
+          "location": "Philippines"
+        }
+      ]
+    },
+    {
+      "companyName": "MCTI-TESDA Muntinlupa",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsEXjpk9JxigrDW8w0kpQVhA8EMImxayYTV-afAjZFTO2mL6xj&usqp=CAU",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Consultant PHP Developer",
+          "description": "Developed web-based Software.",
+          "startDate": "2019-10-08",
+          "endDate": "2023-10-08",
+          "location": "Putatan, Muntinlupa City"
+        }
+      ]
+    },
+    {
+      "companyName": "Tell.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ0mU4YZCTpSSu8Euz8Q5kJhjuBi3ni-0zwYnFwwxV71wVK3X2&usqp=CAU",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Senior Fullstack Developer",
+          "description": "Built and updated various website and wordpress plugins.",
+          "startDate": "2019-06-01",
+          "endDate": "2019-11-16",
+          "location": "30th Street BGC, Taguig City"
+        }
+      ]
+    },
+    {
+      "companyName": "Tao Lost Boys Inc.",
+      "logo": "https://taophlivev2.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/12/29164942/TAO_Logo_Blue-2-1.png",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Wordpress Developer",
+          "description": "Design user-fridendly web page and create booking template design.",
+          "startDate": "2019-01-01",
+          "endDate": "2019-06-01",
+          "location": "Estrella, Makati City"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Programming Language",
+      "SkillSet": [
+        {
+          "Name": "PHP",
+          "Hot": true
+        },
+        {
+          "Name": "JavaScript (ES5, ES6)",
+          "Hot": true
+        },
+        {
+          "Name": "Laravel",
+          "Hot": true
+        },
+        {
+          "Name": "Codeigniter",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "TypeScript",
+          "Hot": false
+        },
+        {
+          "Name": "Wordpress",
+          "Hot": true
+        },
+        {
+          "Name": "PHP Codeigniter",
+          "Hot": false
+        },
+        {
+          "Name": "HTML5",
+          "Hot": true
+        },
+        {
+          "Name": "CSS3 (SCSS/SASS)",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "Node,js",
+          "Hot": true
+        },
+        {
+          "Name": "Redux",
+          "Hot": false
+        },
+        {
+          "Name": "JQuery",
+          "Hot": false
+        },
+        {
+          "Name": "NPM",
+          "Hot": false
+        },
+        {
+          "Name": "Parcel",
+          "Hot": false
+        },
+        {
+          "Name": "WebPack",
+          "Hot": false
+        },
+        {
+          "Name": "UX/UI Design",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Database",
+      "SkillSet": [
+        {
+          "Name": "MySQL",
+          "Hot": false
+        },
+        {
+          "Name": "MongoDB ",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Platforms",
+      "SkillSet": [
+        {
+          "Name": "Windows",
+          "Hot": false
+        },
+        {
+          "Name": "Unix/Linux",
+          "Hot": false
+        },
+        {
+          "Name": "Mac OS",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Test Driven Development",
+      "SkillSet": [
+        {
+          "Name": "Selenium Functional Test",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "Git",
+          "Hot": true
+        },
+        {
+          "Name": "Agile",
+          "Hot": true
+        },
+        {
+          "Name": "Scrum",
+          "Hot": true
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Kleengreen Website Development",
+      "Description": "A Long term client in Canada. Design and Custom Plugin to make the website clean,functional and clean. Developed front end website architecture , Developed back end website applications, Create servers and databases for functionality , Staying abreast of developments in web applications and programming languages",
+      "role": "ROLE: FULLSTACK Developer ",
+      "ScreenShotURL": "./kleengreen.jpg",
+      "ProjectLink": "https://kleengreen.org/"
+    },
+    {
+      "Name": "Tao Philippines Website ",
+      "Description": "A Philippine based company TAOPALAWAN lost boys inc deliverables done. 1 customized theme. 2 customized plugins.3 SEO onpage/offpage/local implementaion",
+      "role": "ROLE: Team Member as Web Developer",
+      "ScreenShotURL": "./tao.png",
+      "ProjectLink": "https://www.taophilippines.com/"
+    },
+    {
+      "Name": "Mirex Marketing Website",
+      "Description": "Australian base Website created for my client. I worked as Wordpress Developer,reliable on plugins customization and SEO specialist",
+      "role": "Role: Wordpress Developer and SEO specialist ",
+      "ScreenShotURL": "./mirex.png",
+      "ProjectLink": "https://www.mirexmarketing.com/"
+    },
+    {
+      "Name": "All Green Carpet Cleaning Website",
+      "Description": "Designing and building the website front-end , Designing and managing the website back-end including database and server integration , Generating WordPress themes and plugins , Conducting website performance tests",
+      "role": "Role: Wordpress Developer Team Member ",
+      "ScreenShotURL": "./allgreen.png",
+      "ProjectLink": "https://allgreencarpetclean.com/"
+    }
+  ],
+  "Education": [
+    {
+      "SchoolName": "Polytechnic University of the Philippines",
+      "Date": "2014 - Present",
+      "Degree": "Master of Science - Information Technology (MSIT)",
+      "Location": "Stamesa Manila, Philippines",
+      "Description": "The Polytechnic University of the Philippines (PUP) is a government educational institution governed by Republic Act Number 8292 known as the Higher Education Modernization Act of 1997, and its Implementing Rules and Regulations contained in the Commission on Higher Education Memorandum Circular No. 4, series 1997. PUP is one of the country's highly competent educational institutions. The PUP Community is composed of the Board of Regents, University Officials, Administrative and Academic Personnel, Students, various Organizations, and the Alumni.",
+      "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Polytechnic_University_of_the_Philippines.svg/200px-Polytechnic_University_of_the_Philippines.svg.png",
+      "SchoolLink": "https://www.pup.edu.ph/about/",
+      "Awards": []
+    },
+    {
+      "SchoolName": "Pamantasan ng Lungsod ng Muntinlupa",
+      "Date": "2008 - 2012",
+      "Degree": "Bachelor of Science - BS, Computer Science",
+      "Location": "Muntinlupa City,Manila,Philippines",
+      "Description": "Pamantasan ng Lungsod ng Muntinlupa, NBP Reservation, Muntinlupa City, 1770 Metro Manila",
+      "SchoolImage": "https://66.media.tumblr.com/33ca84afd52d5cd0ef7bb1bb66c6176b/tumblr_o4ti6j8k6r1unefbyo1_400.png",
+      "SchoolLink": "http://www.plmun.edu.ph/",
+      "Awards": []
+    },
+    {
+      "SchoolName": "Far Eastern Polytechnic College",
+      "Date": "December 2015 - February 2016",
+      "Degree": "Professional Education - Teaching Units",
+      "Location": "Dasmarinas , Cavite City",
+      "Description": "College & university - DBB 1 Sta. Lucia , Dasmariñas, Philippines, 4114",
+      "SchoolImage": "https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/292598741_482833490315156_2290254962652054470_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGjFhj11gZWbKranRuvimZY5UB_oDStgwrlQH-gNK2DCr-hVUk-FvFoSbArP1dUtJeVw9zmN6_odOivIGDM0HJr&_nc_ohc=sfwcjmGscTQAb7dI2gn&_nc_ht=scontent.fmnl30-2.fna&oh=00_AfCbyuVXREiOsGyOq6EFHDAcGd7mWTtjsvcfzuZklK2qpQ&oe=6625F50F",
+      "SchoolLink": "https://www.facebook.com/OfficialFEPC/about",
+      "Awards": []
+    }
+  ]
+}
