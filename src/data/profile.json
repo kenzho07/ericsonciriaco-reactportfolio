@@ -1,6 +1,6 @@
 {
   "Name": "Ericson V. Ciriaco",
-  "Position": "Fullstack Developer / Wordpress Developer",
+  "Position": "Fullstack Developer - All in one SMM / SEO and Wordpress Developer",
   "Description": "Bridging the Gap Between Imagination and Reality.",
   "Address": "Poblacion,Muntinlupa City",
   "Company": "Upwork.com",
@@ -9,6 +9,7 @@
   "SocialMedias": [
     "https://github.com/kenzho07",
     "https://www.linkedin.com/in/ericson-ciriaco/",
+    "https://www.ericsonciriaco.com",
     "https://www.facebook.com/cenpot"
   ],
   "experiences": [
@@ -135,10 +136,6 @@
           "Hot": false
         },
         {
-          "Name": "Parcel",
-          "Hot": false
-        },
-        {
           "Name": "WebPack",
           "Hot": false
         },
@@ -153,10 +150,14 @@
       "SkillSet": [
         {
           "Name": "MySQL",
-          "Hot": false
+          "Hot": true
         },
         {
           "Name": "MongoDB ",
+          "Hot": true
+        },
+        {
+          "Name": "PostgreSQL ",
           "Hot": false
         }
       ]
@@ -200,6 +201,35 @@
         },
         {
           "Name": "Scrum",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Social Media Manager / SEO Specialist",
+      "SkillSet": [
+        {
+          "Name": "Facebook ads marketing",
+          "Hot": true
+        },
+        {
+          "Name": "Editing Video / Photo for contect Creation",
+          "Hot": true
+        },
+        {
+          "Name": "Social media strategist",
+          "Hot": true
+        },
+        {
+          "Name": "Knowledgable in Local SEO",
+          "Hot": true
+        },
+        {
+          "Name": "Knowledgable in Technical SEO",
+          "Hot": true
+        },
+        {
+          "Name": "Knowledgable in Off-page SEO",
           "Hot": true
         }
       ]
